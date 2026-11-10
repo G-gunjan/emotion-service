@@ -1,0 +1,6 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+opencv-python-headless==4.10.0.84
+numpy==1.26.4
+tensorflow==2.16.1          # or torch if you prefer
+pillow==10.4.0
